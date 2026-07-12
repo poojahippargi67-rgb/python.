@@ -1,0 +1,5 @@
+a=20
+b=30
+c=40
+largest=max(a,b,c)
+print("largest number",largest)
